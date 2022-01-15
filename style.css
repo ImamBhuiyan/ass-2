@@ -1,0 +1,115 @@
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+h1{
+   font-size: 65px;
+}
+section{
+    display: flex;
+}
+.first{
+    margin-top: 178px;
+}
+.snd{
+    
+}
+.snd img{
+    margin-top: 181px;
+    margin-left: 156px;
+}
+.bto{
+    background-color: #e28743;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    color: white;
+}
+#icon{
+    width: 20px;
+}
+.pop{
+    text-align: center;
+    margin-top: 145px;
+    margin-bottom: 51px;
+}
+.six{
+    display: flex;
+}
+
+.tri{
+    width: 330px;
+    height: 470px;
+    border: 2px solid white;
+    margin-left: 362px;
+    box-shadow: 5px 7px 40px grey;
+    border-radius: 10px;
+}
+.mic{
+    width: 330px;
+    height: 470px;
+    border: 2px solid white;
+    margin-left: 35px;
+    box-shadow: 5px 7px 40px grey;
+    border-radius: 10px;
+}
+.ab{
+    width: 330px;
+    height: 470px;
+    border: 2px solid white;
+    margin-left: 35px;
+    box-shadow: 5px 7px 40px grey;
+    border-radius: 10px;
+}
+.checked {
+    color: orange;
+  }
+  .abpic{
+      margin-left: 15px;
+      border-radius: 5px;
+      margin-top: 10px;
+
+  }
+
+.mpic{
+    margin-left: 15px;
+      border-radius: 5px;
+      margin-top: 10px;
+}
+.tripic{
+    margin-left: 15px;
+      border-radius: 5px;
+      margin-top: 10px;
+}
+.two{
+    display: flex;
+}
+#twop{
+    margin-top: 25px;
+}
+.ses{
+    display: flex;
+    margin-top: 200px;
+}
+#sespic{
+    margin-left: 200px;
+}
+.aq{
+    margin-left: 40px;
+    margin-top: 100px;
+}
+.ft{
+    background-color: black;
+}
+#lh{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.sm{
+    
+    color: orange;
+    margin-left: 1487px;
+    text-decoration: none;
+    
+}
